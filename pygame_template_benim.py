@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import pygame
-
+import sys
+from pygame.locals import *
 import random
 import time
 import locale
@@ -35,11 +36,11 @@ screen = pygame.display.set_mode((WIDTH,HEIGHT))
 pygame.display.set_caption(CAPTION)
 clock = pygame.time.Clock()
 
-# oyunda kullanılacak sınıflar
+# Classes/ oyunda kullanılacak sınıflar
 
-#Oyunda kullanılcak Fonksiyonlar
+#functions/Oyunda kullanılcak Fonksiyonlar
 
-## oyun döngüsü
+## Game loop/oyun döngüsü
 def oyun():
     #oyunda kullanılacak nesnelerin ilk başlatılması oyunda kullanışacak değişkenler
     global running
@@ -66,7 +67,7 @@ def oyun():
         #Oyunda kullanılan nesnelerin değerlerinin değiştirilmesi x,y ses, renk vb
 
 
-        ## draw/render
+        ##draw / render
         #oyunda kullanılacak nesnelerin güncellenmiş değelere göre çizilmesi
         screen.fill(BLACK)
 
