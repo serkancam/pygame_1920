@@ -11,12 +11,18 @@ import locale
 
 
 ## Renk tanımları
-WHITE = (255, 255, 255)
+GREEN	=	( 0, 128,0)
+LIME	=	( 0, 255,0)
+MAROON	=	(128,0,0)
+NAVYBLUE	=	( 0,0, 128)
+OLIVE	=	(128, 128,0)
+PURPLE	=	(128,0, 128)
+RED	=	(255,0,0)
+SILVER	=	(192, 192, 192)
+TEAL	=	( 0, 128, 128)
+WHITE	=	(255, 255, 255)
 BLACK = (0, 0, 0)
-RED = (255, 0, 0)
-GREEN = (0, 255, 0)
-BLUE = (0, 0, 255)
-YELLOW = (255, 255, 0)
+YELLOW	=	(255, 255,0)
 BLUE1 = (15,69,75)
 BLUE2 = (106,144,147)
 
