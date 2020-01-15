@@ -2,7 +2,7 @@
 python'a ihtiyaç olunanan modüllerin kurulması için gerekli komut.(Debian yapısını kullaanan linux sürümleri için, örneğin pardus)
 
 # sudo apt-get install python3-pip
-pip3 ile pygame modülünğn kurulması için komut
+pip3 ile pygame modülünün kurulması için komut
 # sudo pip3 install paygame
 
 
