@@ -1,5 +1,5 @@
 # pygame_1920
-python'a ihtiyaç olunanan modüllerin kurulması için gerekli komut.(Debian yapısını kullaanan linux sürümleri için, örneğin pardus)
+python'a ihtiyaç olunanan modüllerin kurulması için gerekli komut.(Debian yapısını kullanan linux sürümleri için, örneğin pardus)
 
 # sudo apt-get install python3-pip
 pip3 ile pygame modülünün kurulması için komut
