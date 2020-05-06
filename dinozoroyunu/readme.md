@@ -1,0 +1,1 @@
+Bu resimler sabit olacaktır.
